@@ -1,9 +1,6 @@
 # Όροι υποβολής κειμένων προς δημοσίευση
-
-> Έκδοση 2.3 - Οκτώβριος 2020
-
-> Μπορείτε να βρείτε παλαιότερες εκδόσεις αυτού του εγγράφου στο [Github](https://github.com/TheBluez/documents/commits/master/SubmissionTerms.md)
-
+ ![Version](https://img.shields.io/static/v1?label=Έκδοση&message=2.3.1&color=brightgreen) ![When](https://img.shields.io/badge/%CE%A4%CE%B5%CE%BB%CE%B5%CF%85%CF%84%CE%B1%CE%AF%CE%B1%20%CE%91%CE%BD%CE%B1%CE%BD%CE%AD%CF%89%CF%83%CE%B7-%CE%9F%CE%BA%CF%84%CF%8E%CE%B2%CF%81%CE%B9%CE%BF%CF%82%202020-informational)
+ 
 Το TheBluez.gr είναι ιστότοπος δημιουργικής γραφής που δημοσιεύει μυθοπλασία και αρθρογραφία. Πριν μας στείλετε τα κείμενά σας προς εξέταση δημοσίευσης, παρακαλούμε να διαβάστε προσεκτικά τους παρακάτω όρους.
 
 Η υποβολή των κειμένων στον ιστότοπο, γίνεται υποχρεωτικά από την [φόρμα υποβολής κειμένων](https://thebluez.gr/%CF%85%CF%80%CE%BF%CE%B2%CE%BF%CE%BB%CE%AE-%CE%BA%CE%B5%CE%B9%CE%BC%CE%AD%CE%BD%CF%89%CE%BD/). Στην συγκεκριμένη φόρμα θα πρέπει να τσεκάρετε το πεδίο _έχω διαβάσει τους όρους υποβολής κειμένων προς δημοσίευση και συμφωνώ μαζί τους_. 
