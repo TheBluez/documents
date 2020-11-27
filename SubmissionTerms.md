@@ -1,6 +1,6 @@
 
 # Όροι και προϋποθέσεις για την δημοσίευση κειμένων
- ![Version](https://img.shields.io/static/v1?label=Έκδοση&message=3.0.1&color=brightgreen) ![When](https://img.shields.io/badge/%CE%A4%CE%B5%CE%BB%CE%B5%CF%85%CF%84%CE%B1%CE%AF%CE%B1%20%CE%91%CE%BD%CE%B1%CE%BD%CE%AD%CF%89%CF%83%CE%B7-%CE%9F%CE%BA%CF%84%CF%8E%CE%B2%CF%81%CE%B9%CE%BF%CF%82%202020-informational)
+ ![Version](https://img.shields.io/static/v1?label=Έκδοση&message=3.0.2&color=brightgreen) ![When](https://img.shields.io/badge/%CE%A4%CE%B5%CE%BB%CE%B5%CF%85%CF%84%CE%B1%CE%AF%CE%B1%20%CE%91%CE%BD%CE%B1%CE%BD%CE%AD%CF%89%CF%83%CE%B7-%CE%9F%CE%BA%CF%84%CF%8E%CE%B2%CF%81%CE%B9%CE%BF%CF%82%202020-informational)
  
 Το [TheBluez.gr](https://thebluez.gr) είναι ιστότοπος δημιουργικής γραφής που δημοσιεύει μυθοπλασία και αρθρογραφία. Πριν μας στείλετε τα κείμενά σας προς εξέταση δημοσίευσης, παρακαλούμε να διαβάστε προσεκτικά τους παρακάτω όρους. 
 
